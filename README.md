@@ -5,10 +5,12 @@ Two-part project on automatic **sexism detection in social-media text**, develop
 
 The repository bundles the two course assignments:
 
-| Part | Notebook | Approach | Report |
-|------|----------|----------|--------|
-| **Assignment 1** | [`sexism_detection_transformer_bilstm.ipynb`](sexism_detection_transformer_bilstm.ipynb) | GloVe + BiLSTM models and a fine-tuned Twitter-RoBERTa transformer | [`sexism_detection_transformer_bilstm_report.pdf`](sexism_detection_transformer_bilstm_report.pdf) |
-| **Assignment 2** | [`sexism_detection_llm.ipynb`](sexism_detection_llm.ipynb) | Zero-shot and few-shot prompting of instruction-tuned LLMs | [`sexism_detection_llm_report.pdf`](sexism_detection_llm_report.pdf) |
+- **Assignment 1 — BiLSTM & Transformer:** GloVe + BiLSTM models and a fine-tuned Twitter-RoBERTa transformer.
+  Notebook: [`sexism_detection_transformer_bilstm.ipynb`](sexism_detection_transformer_bilstm.ipynb) ·
+  Report: [`sexism_detection_transformer_bilstm_report.pdf`](sexism_detection_transformer_bilstm_report.pdf)
+- **Assignment 2 — LLM Prompting:** Zero-shot and few-shot prompting of instruction-tuned LLMs.
+  Notebook: [`sexism_detection_llm.ipynb`](sexism_detection_llm.ipynb) ·
+  Report: [`sexism_detection_llm_report.pdf`](sexism_detection_llm_report.pdf)
 
 **Authors:** Marco Borghi, Arash Foroozanfar, Armina Sadeghi, Razieh Soleimanbeigi
 
