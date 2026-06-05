@@ -3,14 +3,14 @@
 Two-part project on automatic **sexism detection in social-media text**, developed for the
 *Natural Language Processing* course (Master of Artificial Intelligence, Year 2 — University of Bologna).
 
-The repository bundles the two course assignments:
+The rThe repository bundles the two course assignments:
 
 - **Assignment 1 — BiLSTM & Transformer:** GloVe + BiLSTM models and a fine-tuned Twitter-RoBERTa transformer.
-  Notebook: [`sexism_detection_transformer_bilstm.ipynb`](sexism_detection_transformer_bilstm.ipynb) ·
-  Report: [`sexism_detection_transformer_bilstm_report.pdf`](sexism_detection_transformer_bilstm_report.pdf)
+  - Notebook: [`sexism_detection_transformer_bilstm.ipynb`](sexism_detection_transformer_bilstm.ipynb)
+  - Report: [`sexism_detection_transformer_bilstm_report.pdf`](sexism_detection_transformer_bilstm_report.pdf)
 - **Assignment 2 — LLM Prompting:** Zero-shot and few-shot prompting of instruction-tuned LLMs.
-  Notebook: [`sexism_detection_llm.ipynb`](sexism_detection_llm.ipynb) ·
-  Report: [`sexism_detection_llm_report.pdf`](sexism_detection_llm_report.pdf)
+  - Notebook: [`sexism_detection_llm.ipynb`](sexism_detection_llm.ipynb)
+  - Report: [`sexism_detection_llm_report.pdf`](sexism_detection_llm_report.pdf)
 
 **Authors:** Marco Borghi, Arash Foroozanfar, Armina Sadeghi, Razieh Soleimanbeigi
 
